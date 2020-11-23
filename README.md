@@ -1,2 +1,2 @@
 # T-test-And-Correlation-Using-Python
-Ml
+P-Vlaue,T-Test,Chi Square Test,Correlation Etc.
